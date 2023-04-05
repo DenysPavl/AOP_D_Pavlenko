@@ -1,6 +1,6 @@
 package Lab_7;
 
-import Lab_6.objekt;
+
 
 import javax.swing.*;
 import java.awt.*;

@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f7df7ff-277f-47f1-bbc3-e2d6125c267f" name="Changes" comment="gg">
-      <change afterPath="$PROJECT_DIR$/src/Lab_8/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_8/Tabletka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_8/lab_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_10/lab_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_11/lab_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_11/lab_11Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_7/Proga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_7/Proga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP_D_Pavlenko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AOP_D_Pavlenko.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_8/Tabletka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_8/Tabletka.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -35,15 +37,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "full.screen.before.presentation.mode": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gaysu\IdeaProjects\AOP_D_Pavlenko\src\Lab_10" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Lab_11" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679767447535</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="gg">
+      <created>1680724035353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680724035353</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

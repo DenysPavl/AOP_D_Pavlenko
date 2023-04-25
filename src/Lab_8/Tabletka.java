@@ -7,7 +7,8 @@ import java.awt.event.ActionListener;
 
 public class Tabletka extends JFrame {
 
-    JButton redButton = new JButton("Червоний");
+
+   JButton redButton = new JButton("Червоний");
     JButton blackButton = new JButton("Синій");
     JButton cancelButton = new JButton("Cancel");
     JPanel panel = new JPanel();
@@ -61,6 +62,8 @@ public class Tabletka extends JFrame {
             g2d.setColor(currentColor);
             g2d.fillPolygon(xPoints, yPoints, nPoints);
         }
+
+
     }
 
 }
